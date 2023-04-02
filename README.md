@@ -7,4 +7,6 @@ project name: Cars Popularity
 
 برای دانلود فایل exe این برنامه از این لینک اقدام نمایید
 
-[دانلود فایل exe](https://studio.download-ha.ir/python/plt/file.exe)
+[دانلود فایل exe](https://archive.studio.download-ha.ir/python/plt/file.exe)
+
+![](https://archive.studio.download-ha.ir/pic.svg)
