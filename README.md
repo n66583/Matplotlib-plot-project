@@ -10,4 +10,4 @@ project name: Cars Popularity
 [دانلود فایل exe](https://archive.studio.download-ha.ir/python/plt/file.exe)
 
 مشاهده نمونه ای از تصویر برنامه:
-![](https://archive.studio.download-ha.ir/pic.svg)
+![](https://archive.studio.download-ha.ir/pic.png)
